@@ -11,6 +11,7 @@
 - [UML Diagrammas](#uml-diagrammas)
 
 ## Mācību Materiāls
+Šajā mācību materiālā var atrast informāciju un piemērus par biežāk lietotajām funkcijām darbam ar simbolu virknēm Python programmēšanas valodā. Mācību materiāls ir pievienots 'Releases' sadaļā.
 
 ## Tests
 
