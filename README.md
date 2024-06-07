@@ -7,7 +7,7 @@
 - [Apraksts](#apraksts)
 - [Mācību Materiāls](#macibu-materials)
 - [Tests](#tests)
-- [Piemērs](#piemērs)
+- [Piemēri](#piemēri)
 - [UML Diagrammas](#uml-diagrammas)
 
 ## Mācību Materiāls
@@ -23,4 +23,8 @@
  - Piemēri, kas parāda kā izmantot dažādas funkcijas darbam ar simbolu virknēm Python programmēšanas valodā.
 
 ## UML Diagrammas
+<<<<<<< HEAD
  - Šīs ir UML diagrammas, kas attēlo Testa projektu.
+=======
+ - Šīs ir UML diagrammas, kas attēlo Testa projektu.
+>>>>>>> 4ade56ebefee74cf29483152fefc2486eebccbea
