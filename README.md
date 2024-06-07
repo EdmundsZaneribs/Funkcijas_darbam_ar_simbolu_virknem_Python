@@ -7,7 +7,7 @@
 - [Apraksts](#apraksts)
 - [Mācību Materiāls](#macibu-materials)
 - [Tests](#tests)
-- [Piemērs](#piemērs)
+- [Piemēri](#piemēri)
 - [UML Diagrammas](#uml-diagrammas)
 
 ## Mācību Materiāls
@@ -15,9 +15,10 @@
 
 ## Tests
 Šis tests izstrādāts lai, vari pārbaudīt savas zināšanas darbā ar biežāk lietotajām funkcijām darbam ar simbolu virknēm programmēšanas valodā Python.
-Tests sastāv no 10 jautājumiem.
 #### Testa noteikumi: 10 jautājumi, uz kuriem Jūs varat atbildēt līdz atbilde pareiza. Beigās Jums tiks paziņots, cik jautājumi atbildēti pareizi ar pirmo reizi. 
 
-## Piemērs
+## Piemēri
+Piemēri, kas parāda kā izmantot dažādas funkcijas darbam ar simbolu virknēm Python programmēšanas valodā.
 
 ## UML Diagrammas
+Šīs ir UML diagrammas, kas attēlo Testa projektu.
