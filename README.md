@@ -23,12 +23,3 @@
  - Piemēri, kas parāda kā izmantot dažādas funkcijas darbam ar simbolu virknēm Python programmēšanas valodā.
 
 ## UML Diagrammas
-<<<<<<< HEAD
- - Šīs ir UML diagrammas, kas attēlo Testa projektu.
-=======
-<<<<<<< HEAD
- - Šīs ir UML diagrammas, kas attēlo Testa projektu.
-=======
- - Šīs ir UML diagrammas, kas attēlo Testa projektu.
->>>>>>> 4ade56ebefee74cf29483152fefc2486eebccbea
->>>>>>> d1c503b121d2d87814fa355530d8f6af81bee164
