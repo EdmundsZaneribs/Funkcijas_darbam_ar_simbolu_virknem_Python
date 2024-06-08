@@ -11,15 +11,17 @@
 - [UML Diagrammas](#uml-diagrammas)
 
 ## Mācību Materiāls
- - Šajā mācību materiālā var atrast informāciju un piemērus par biežāk lietotajām funkcijām darbam ar simbolu virknēm Python programmēšanas valodā. Mācību materiāls ir pievienots 'Releases' sadaļā.
+ - Šajā mācību materiālā var atrast informāciju un piemērus par biežāk lietotajām funkcijām darbam ar simbolu virknēm Python programmēšanas valodā. Mācību materiāls ir pievienots **'Releases'** sadaļā.
 
 ## Tests
  - Šis tests izstrādāts lai, vari pārbaudīt savas zināšanas darbā ar biežāk lietotajām funkcijām darbam ar simbolu virknēm programmēšanas valodā Python.
 
 ![tests](https://github.com/EdmundsZaneribs/Funkcijas_darbam_ar_simbolu_virknem_Python/assets/165994174/f9d39716-c52a-4789-918e-ebe4bac0bedf)
-#### Testa noteikumi: 10 jautājumi, uz kuriem Jūs varat atbildēt līdz atbilde pareiza. Beigās Jums tiks paziņots, cik jautājumi atbildēti pareizi ar pirmo reizi. 
+**Testa noteikumi:** 10 jautājumi, uz kuriem Jūs varat atbildēt līdz atbilde pareiza. Beigās Jums tiks paziņots, cik jautājumi atbildēti pareizi ar pirmo reizi. 
 
 ## Piemēri
  - Piemēri, kas parāda kā izmantot dažādas funkcijas darbam ar simbolu virknēm Python programmēšanas valodā.
 
 ## UML Diagrammas
+ - Šīs ir UML diagrammas - klašu un aktivitāšu diagrammas, kas attēlo projekta 'Tests' attēlojumu.
+ - Šīs diagrammas pieejamas arī **'Releases'** sadaļā.
