@@ -54,5 +54,7 @@ Veidota Windows vidē, kā arī Flask serveris, kas apstrādā lietotāja piepra
 
 ## Autors
 _"Programmēšanas tehniķis"_
+
 _2.kurss_
+
 _Edmunds Zaneribs_
