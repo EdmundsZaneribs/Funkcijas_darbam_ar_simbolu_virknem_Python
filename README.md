@@ -8,6 +8,7 @@
 - [Mācību Materiāls](#macibu-materials)
 - [Tests](#tests)
 - [UML Diagrammas](#uml-diagrammas)
+- [Autors](#autors)
 
 ## Mācību Materiāls
  - Šajā mācību materiālā var atrast informāciju un piemērus par biežāk lietotajām funkcijām darbam ar simbolu virknēm Python programmēšanas valodā. Mācību materiāls ir pievienots **'Releases'** sadaļā.
@@ -49,3 +50,7 @@ _Testa pabeigšana un rezultātu parādīšana._
 Veidota Windows vidē, kā arī Flask serveris, kas apstrādā lietotāja pieprasījumus un sniedz atbildes.
 
 ![LietojumGadijumuDiagramma](https://github.com/EdmundsZaneribs/Funkcijas_darbam_ar_simbolu_virknem_Python/assets/165994174/b44132b6-dde0-4dbc-a1d1-00eb907f1910)
+
+
+## Autors
+_Edmunds Zaneribs 2.kursa specialitātes "Programmēšanas tehniķis" skolēns_
