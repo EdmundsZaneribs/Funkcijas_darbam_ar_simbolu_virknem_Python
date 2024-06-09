@@ -7,7 +7,6 @@
 - [Apraksts](#apraksts)
 - [Mācību Materiāls](#macibu-materials)
 - [Tests](#tests)
-- [Piemēri](#piemēri)
 - [UML Diagrammas](#uml-diagrammas)
 
 ## Mācību Materiāls
@@ -20,11 +19,8 @@
 
 **Testa noteikumi:** 10 jautājumi, uz kuriem Jūs varat atbildēt līdz atbilde pareiza. Beigās Jums tiks paziņots, cik jautājumi atbildēti pareizi ar pirmo reizi. 
 
-## Piemēri
- - Piemēri, kas parāda kā izmantot dažādas funkcijas darbam ar simbolu virknēm Python programmēšanas valodā.
-
 ## UML Diagrammas
- - Šīs ir UML diagrammas - Aktivitāšu un LietojumGadījumu diagrammas, kas attēlo projekta 'Tests' attēlojumu.
+Šīs ir UML diagrammas - Aktivitāšu un LietojumGadījumu diagrammas, kas attēlo projekta 'Tests' attēlojumu.
  - Šīs diagrammas pieejamas arī **'Releases'** sadaļā
 
  - **Aktivitāšu diagramma**
