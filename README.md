@@ -18,8 +18,14 @@
 _Tiek parādīts testa sākuma logs, kur iespējams ievadīt vārdu, uzvārdu un turināt sākt pildīt testu._
 ![TestaSakums](https://i.postimg.cc/tCWwm3Gw/111111111111111111.png)
 
+_Neievadot vārdu un uzvārdu. Paziņojuma parādīšana ekrānā._
+![TestaNeievadotVardu](https://i.postimg.cc/0QWhxRYr/555555555555555555.png)
+
 _Jautājumu atbildēšana un pāriešana pie nākamā jautājuma._
 ![TestaJautajumaLogs](https://i.postimg.cc/tgYkhQ33/222222222222222222.png)
+
+_Jautājuma atbildēšana, bet nekorekta atbldes atzīmēšana un turpinot piespiežot - Nākamais. Ekrāna izvadīšana_
+![TestaJautajumaNepareizaVeiksana](https://i.postimg.cc/hvKhFm0K/444444444444444444.png)
 
 _Jautājumu atbildēšana nepareizi._
 ![TestaJautajumsNepareizi](https://i.postimg.cc/nr4g6jhY/22222222222222222.png)
