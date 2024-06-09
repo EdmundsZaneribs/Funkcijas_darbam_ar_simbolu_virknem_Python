@@ -29,5 +29,5 @@
 
 
  - **LietojumGadījumu diagramma**
-
+Veidota Windows vidē, kā arī Flask serveris, kas apstrādā lietotāja pieprasījumus un sniedz atbildes.
 ![LietojumGadijumuDiagramma](https://github.com/EdmundsZaneribs/Funkcijas_darbam_ar_simbolu_virknem_Python/assets/165994174/b44132b6-dde0-4dbc-a1d1-00eb907f1910)
