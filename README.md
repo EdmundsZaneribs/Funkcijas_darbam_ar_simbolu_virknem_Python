@@ -15,7 +15,8 @@
 ## Tests
  - Šis tests izstrādāts lai, vari pārbaudīt savas zināšanas darbā ar biežāk lietotajām funkcijām darbam ar simbolu virknēm programmēšanas valodā Python.
 
-![tests](https://github.com/EdmundsZaneribs/Funkcijas_darbam_ar_simbolu_virknem_Python/assets/165994174/f9d39716-c52a-4789-918e-ebe4bac0bedf)
+![Uploading 111111111111111111.png…]()
+
 
 **Testa noteikumi:** 10 jautājumi, uz kuriem Jūs varat atbildēt līdz atbilde pareiza. Beigās Jums tiks paziņots, cik jautājumi atbildēti pareizi ar pirmo reizi. 
 
