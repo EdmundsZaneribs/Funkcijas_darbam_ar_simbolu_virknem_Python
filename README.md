@@ -15,7 +15,7 @@
 ## Tests
  - Šis tests izstrādāts lai, vari pārbaudīt savas zināšanas darbā ar biežāk lietotajām funkcijām darbam ar simbolu virknēm programmēšanas valodā Python.
 
-![Uploading 111111111111111111.png…]()
+![TestaSakums](https://i.postimg.cc/tCWwm3Gw/111111111111111111.png)
 
 
 **Testa noteikumi:** 10 jautājumi, uz kuriem Jūs varat atbildēt līdz atbilde pareiza. Beigās Jums tiks paziņots, cik jautājumi atbildēti pareizi ar pirmo reizi. 
