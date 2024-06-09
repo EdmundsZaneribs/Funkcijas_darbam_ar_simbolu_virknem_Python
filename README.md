@@ -28,7 +28,10 @@
  - Šīs diagrammas pieejamas arī **'Releases'** sadaļā
 
  - **Aktivitāšu diagramma**
+
 ![AktivitāšuDiagramma](https://github.com/EdmundsZaneribs/Funkcijas_darbam_ar_simbolu_virknem_Python/assets/165994174/f9fddb57-5111-4a8a-a5b1-21e76044a76e)
 
+
  - **LietojumGadījumu diagramma**
+
 ![LietojumGadijumuDiagramma](https://github.com/EdmundsZaneribs/Funkcijas_darbam_ar_simbolu_virknem_Python/assets/165994174/b44132b6-dde0-4dbc-a1d1-00eb907f1910)
