@@ -53,4 +53,6 @@ Veidota Windows vidē, kā arī Flask serveris, kas apstrādā lietotāja piepra
 
 
 ## Autors
-_Edmunds Zaneribs 2.kursa specialitātes "Programmēšanas tehniķis" skolēns_
+_"Programmēšanas tehniķis"_
+_2.kurss_
+_Edmunds Zaneribs_
